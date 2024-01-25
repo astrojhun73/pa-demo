@@ -123,7 +123,7 @@ module.exports = {
         'slide-out-left5': 'slide-out-left 0.7s ease-out',
       },
       backgroundImage : {
-        'home' : "url('pitcairn-aviation-ramp-header.webp')",
+        'home' : "url('landing1.webp')",
         'home2' : "url('pitcairn-flight-bg-cessna.webp')",
         'ctahead' : "url('cessna-sunset.webp')",
         'sunset' : "url('sunset.webp')",
@@ -142,6 +142,8 @@ module.exports = {
         'student' : "url('student-pilot-before-solo.webp')",
         'thumbs' : "url('thumbs-up-in-front-of-cessna.webp')",
         'behind' : "url('behind-pic.webp')",
+        'landing' : "url('landing1.webp')",
+        'repair' : "url('repair-aviation.webp')",
         
       },
       height: theme => ({
